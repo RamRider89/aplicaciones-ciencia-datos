@@ -1,0 +1,17 @@
+RUBRICA - ACTIVIDAD 1
+
+1. Análisis de casos reales: 
+- Describe dos casos reales, identifica los conjuntos de datos utilizados y analiza el valor generado en el sector correspondiente, especificando el beneficio o impacto obtenido a partir del uso de los datos.
+
+2. Transformación y codificación de variables: 
+- Codifica todas las variables categóricas necesarias para el análisis y explica las decisiones técnicas adoptadas mediante celdas Markdown, justificando el método de codificación seleccionado.
+
+3. Manejo de valores nulos y datos atípicos (outliers): 
+- Identifica y trata los valores nulos y los datos atípicos con una justificación técnica clara, y muestra los efectos del tratamiento aplicado sobre el conjunto de datos.
+
+4. Estructuras no tabulares simples y flujo reproducible: 
+- Integra estructuras no tabulares cuando el análisis lo requiere y organiza el notebook por secciones claramente identificadas. El flujo de trabajo se ejecuta de inicio a fin sin errores, garantizando su reproducibilidad.
+
+5. Documentación y reflexión sobre la calidad de los datos en decisiones de negocio: 
+- Explica las decisiones técnicas adoptadas, documenta los retos identificados durante el análisis y redacta una reflexión argumentada sobre el impacto de la calidad de los datos en la toma de decisiones organizacionales.
+
