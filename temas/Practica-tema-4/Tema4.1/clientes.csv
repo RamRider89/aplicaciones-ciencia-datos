@@ -1,0 +1,501 @@
+customer_id,edad,sexo,ingreso_mensual,ciudad,estado,canal_preferido,frecuencia_compra_mensual,ticket_promedio,categoria_favorita
+C0001,45,M,12365.250475657926,Tijuana,Baja California,web,0.5,677.31,Hogar
+C0002,38,M,6732.309629091522,Querétaro,Querétaro,web,0.6,443.9,Computación
+C0003,47,M,5546.96661180877,Querétaro,Querétaro,web,2.9,402.24,Computación
+C0004,58,H,22848.07961076512,Mérida,Yucatán,web,0.8,843.82,Limpieza
+C0005,37,M,7756.565180029735,Querétaro,Querétaro,app,2.1,422.06,Computación
+C0006,37,H,32038.353455874916,Cancún,Quintana Roo,tienda,5.7,1817.39,Abarrotes
+C0007,58,H,5000.0,Chihuahua,Chihuahua,app,0.8,397.89,Computación
+C0008,49,M,31571.650946320304,Cancún,Quintana Roo,web,1.2,1854.78,Hogar
+C0009,34,H,19688.139737620946,Chihuahua,Chihuahua,tienda,4.9,786.3,Computación
+C0010,46,H,17226.29510503686,Toluca,Estado de México,tienda,0.4,579.01,Electrónica
+C0011,34,H,13640.647305528402,Chihuahua,Chihuahua,tienda,2.1,639.84,Hogar
+C0012,34,H,21193.088914816566,Cancún,Quintana Roo,web,3.1,1152.57,Electrónica
+C0013,42,M,17698.922380601212,Chihuahua,Chihuahua,web,4.7,802.7,Hogar
+C0014,18,H,26826.415056132173,Toluca,Estado de México,web,1.7,1155.01,Abarrotes
+C0015,19,M,18913.821189296315,Toluca,Estado de México,web,0.8,1112.44,Abarrotes
+C0016,33,M,19202.41409169502,CDMX,Ciudad de México,tienda,3.0,761.64,Abarrotes
+C0017,27,H,15091.102302289153,Chihuahua,Chihuahua,tienda,3.1,920.83,Electrónica
+C0018,43,M,17544.43501023146,Mérida,Yucatán,tienda,7.7,736.38,Limpieza
+C0019,29,M,20462.414151136472,Puebla,Puebla,tienda,1.9,777.91,Hogar
+C0020,23,M,5000.0,GDL,Jalisco,tienda,3.1,290.8,Abarrotes
+C0021,57,H,7214.516623154295,Toluca,Estado de México,tienda,2.3,464.32,Hogar
+C0022,37,M,23946.112752181718,MTY,Nuevo León,web,0.8,699.61,Electrónica
+C0023,40,M,19366.923505023537,Puebla,Puebla,web,3.0,639.5,Limpieza
+C0024,22,M,16528.133309178567,Tijuana,Baja California,app,5.1,1059.59,Electrónica
+C0025,33,H,18147.471464523147,Chihuahua,Chihuahua,app,4.0,590.34,Hogar
+C0026,41,M,20780.65364289337,Cancún,Quintana Roo,web,1.3,987.52,Limpieza
+C0027,26,H,13681.922557525108,GDL,Jalisco,tienda,2.0,690.68,Limpieza
+C0028,44,H,11773.562196781499,MTY,Nuevo León,web,5.6,566.06,Electrónica
+C0029,32,H,19566.762040781454,Puebla,Puebla,web,1.9,995.96,Abarrotes
+C0030,36,H,10173.017779079742,Chihuahua,Chihuahua,tienda,5.5,396.98,Hogar
+C0031,32,H,21266.022045715774,CDMX,Ciudad de México,tienda,2.1,995.44,Computación
+C0032,62,H,5000.0,Tijuana,Baja California,app,2.2,274.43,Computación
+C0033,39,M,26233.245098605148,GDL,Jalisco,tienda,5.0,1318.97,Electrónica
+C0034,27,H,21780.779859304344,Mérida,Yucatán,web,8.5,658.65,Hogar
+C0035,49,M,20048.237874511004,CDMX,Ciudad de México,web,2.1,958.77,Hogar
+C0036,25,M,25861.52787156411,MTY,Nuevo León,tienda,1.8,808.89,Electrónica
+C0037,42,H,31323.795555700613,GDL,Jalisco,tienda,1.3,1075.6,Hogar
+C0038,18,M,26114.960520145043,CDMX,Ciudad de México,tienda,1.1,850.76,Abarrotes
+C0039,24,M,5000.0,Tijuana,Baja California,tienda,1.4,236.57,Electrónica
+C0040,42,M,7763.384266114388,Mérida,Yucatán,tienda,1.6,511.68,Abarrotes
+C0041,48,M,13001.451378434569,CDMX,Ciudad de México,app,4.6,508.61,Hogar
+C0042,42,H,18208.72840168667,Querétaro,Querétaro,tienda,3.6,1139.44,Electrónica
+C0043,38,M,22141.272163752983,Mérida,Yucatán,web,4.2,1401.84,Hogar
+C0044,36,H,12194.049494772276,MTY,Nuevo León,tienda,4.1,622.52,Electrónica
+C0045,22,M,19494.134115816625,Tijuana,Baja California,app,5.6,601.39,Hogar
+C0046,31,M,11956.93654117342,Chihuahua,Chihuahua,tienda,1.3,518.28,Abarrotes
+C0047,34,H,13107.857576064414,Cancún,Quintana Roo,tienda,2.9,780.42,Abarrotes
+C0048,52,M,6746.7112252142215,Cancún,Quintana Roo,app,0.5,334.08,Hogar
+C0049,44,M,10614.134031112766,Cancún,Quintana Roo,app,0.5,349.23,Electrónica
+C0050,18,M,7186.523155069332,GDL,Jalisco,tienda,2.7,403.78,Computación
+C0051,43,H,10193.013976181337,MTY,Nuevo León,app,2.2,648.43,Abarrotes
+C0052,35,M,26429.134372862718,Tijuana,Baja California,web,2.6,1470.01,Abarrotes
+C0053,31,H,10404.808889344455,Mérida,Yucatán,web,3.9,380.98,Computación
+C0054,47,M,39059.05651869913,GDL,Jalisco,tienda,6.5,1932.28,Hogar
+C0055,52,H,21946.543207047114,MTY,Nuevo León,tienda,2.5,732.5,Electrónica
+C0056,51,H,19478.688989558992,Chihuahua,Chihuahua,web,2.2,659.59,Hogar
+C0057,29,M,11133.137758550292,Querétaro,Querétaro,web,1.4,711.91,Limpieza
+C0058,36,M,23602.479035271932,Tijuana,Baja California,tienda,4.6,807.76,Abarrotes
+C0059,43,H,13394.897390097809,Cancún,Quintana Roo,web,1.5,508.94,Limpieza
+C0060,51,H,18976.078517162892,CDMX,Ciudad de México,web,2.0,480.02,Abarrotes
+C0061,34,M,38480.67630615036,Tijuana,Baja California,tienda,3.9,2209.77,Abarrotes
+C0062,37,H,17231.520802202802,Toluca,Estado de México,web,2.7,990.93,Limpieza
+C0063,26,M,27194.186610285404,MTY,Nuevo León,tienda,2.5,1326.27,Limpieza
+C0064,25,M,12374.588598992901,Puebla,Puebla,web,1.2,718.86,Hogar
+C0065,49,M,17720.092076024306,Chihuahua,Chihuahua,web,3.2,562.17,Limpieza
+C0066,56,M,32166.40508508408,Querétaro,Querétaro,app,9.6,1333.03,Hogar
+C0067,39,H,12984.263537697861,Chihuahua,Chihuahua,tienda,0.7,542.1,Hogar
+C0068,52,M,32499.58846397543,Tijuana,Baja California,tienda,0.9,871.9,Hogar
+C0069,44,H,23662.0154836438,Puebla,Puebla,tienda,4.3,1033.35,Abarrotes
+C0070,32,M,13500.26579284586,Toluca,Estado de México,tienda,3.0,867.21,Abarrotes
+C0071,44,H,23059.261912444166,Mérida,Yucatán,tienda,6.2,598.13,Limpieza
+C0072,58,M,25780.43559701384,CDMX,Ciudad de México,app,1.3,916.17,Abarrotes
+C0073,39,H,22974.479697737574,Puebla,Puebla,tienda,4.6,750.22,Limpieza
+C0074,58,H,5438.202240876348,MTY,Nuevo León,tienda,3.2,260.57,Abarrotes
+C0075,18,M,12182.902593401051,Cancún,Quintana Roo,web,1.1,786.35,Electrónica
+C0076,49,M,16019.850915587962,Toluca,Estado de México,tienda,1.5,720.33,Electrónica
+C0077,41,M,17404.53256719963,CDMX,Ciudad de México,web,2.5,772.72,Limpieza
+C0078,36,M,22965.376780405422,Querétaro,Querétaro,tienda,1.2,1257.98,Abarrotes
+C0079,41,H,19421.60800746603,Cancún,Quintana Roo,web,5.4,608.45,Abarrotes
+C0080,18,M,7317.24513031919,Tijuana,Baja California,tienda,4.2,388.96,Hogar
+C0081,37,H,21041.582808047708,Puebla,Puebla,tienda,1.7,882.73,Computación
+C0082,44,H,22884.685962270585,CDMX,Ciudad de México,app,2.2,1104.1,Limpieza
+C0083,57,M,22478.32358344832,GDL,Jalisco,tienda,4.8,1448.3,Computación
+C0084,33,H,26646.245804436974,Mérida,Yucatán,web,2.4,1453.04,Computación
+C0085,30,H,24671.377236391232,Mérida,Yucatán,tienda,8.6,986.06,Limpieza
+C0086,33,H,21673.440633827493,Toluca,Estado de México,tienda,3.7,1250.91,Abarrotes
+C0087,50,H,17438.674308330825,Querétaro,Querétaro,app,1.2,567.85,Limpieza
+C0088,43,M,5000.0,Toluca,Estado de México,tienda,1.0,206.09,Computación
+C0089,33,M,21436.94575306069,GDL,Jalisco,web,5.2,704.05,Abarrotes
+C0090,46,M,19661.50149730489,MTY,Nuevo León,app,1.7,760.95,Electrónica
+C0091,41,M,20172.63069756299,Querétaro,Querétaro,web,2.8,915.44,Limpieza
+C0092,51,H,7786.011393437524,Chihuahua,Chihuahua,app,2.5,447.3,Limpieza
+C0093,31,H,9351.5476767339,MTY,Nuevo León,tienda,0.6,627.65,Abarrotes
+C0094,36,M,26425.22282666323,Querétaro,Querétaro,tienda,0.6,1167.42,Electrónica
+C0095,35,M,17683.55876914676,Querétaro,Querétaro,tienda,5.7,808.24,Electrónica
+C0096,22,M,23452.005578980996,GDL,Jalisco,web,1.9,616.17,Abarrotes
+C0097,43,H,18226.54700904369,Tijuana,Baja California,app,1.8,489.98,Hogar
+C0098,43,M,18238.04911596596,GDL,Jalisco,tienda,9.2,866.84,Limpieza
+C0099,40,M,25506.270447807983,Querétaro,Querétaro,web,4.9,1057.18,Limpieza
+C0100,37,M,13871.64217426101,CDMX,Ciudad de México,tienda,7.1,843.07,Computación
+C0101,23,H,18768.966215527867,MTY,Nuevo León,web,5.9,596.01,Abarrotes
+C0102,34,H,14301.797690359661,GDL,Jalisco,web,4.4,400.32,Computación
+C0103,35,H,14524.030180541475,Tijuana,Baja California,app,6.9,651.35,Computación
+C0104,30,H,15526.623012250886,Puebla,Puebla,web,1.3,558.02,Electrónica
+C0105,38,H,19777.070173069704,Toluca,Estado de México,tienda,1.2,534.79,Limpieza
+C0106,44,H,14170.011026692182,Querétaro,Querétaro,tienda,0.6,794.1,Computación
+C0107,62,H,28046.049004588167,Chihuahua,Chihuahua,tienda,0.4,786.11,Electrónica
+C0108,42,H,10843.141582243969,Puebla,Puebla,tienda,2.7,580.71,Abarrotes
+C0109,43,M,16505.026846709126,Mérida,Yucatán,tienda,0.6,615.65,Computación
+C0110,39,M,14482.1515338066,Cancún,Quintana Roo,app,0.9,490.15,Limpieza
+C0111,18,H,29575.823074829863,Tijuana,Baja California,web,2.1,1140.78,Computación
+C0112,39,H,19572.4382120926,Chihuahua,Chihuahua,web,0.1,1118.9,Abarrotes
+C0113,40,M,26254.75631574908,Cancún,Quintana Roo,tienda,2.4,1036.87,Computación
+C0114,69,H,6115.517015704225,Tijuana,Baja California,app,2.5,405.96,Limpieza
+C0115,37,H,20136.40212695407,CDMX,Ciudad de México,web,8.8,603.8,Electrónica
+C0116,43,H,25117.046364987495,Toluca,Estado de México,tienda,2.9,1378.73,Limpieza
+C0117,39,M,18658.271914203393,Puebla,Puebla,web,2.7,650.0,Electrónica
+C0118,25,M,26523.843000522807,MTY,Nuevo León,web,6.9,1349.16,Hogar
+C0119,53,M,13861.692399197022,Tijuana,Baja California,tienda,2.1,690.94,Limpieza
+C0120,49,M,29274.77952148464,MTY,Nuevo León,web,2.9,1773.52,Limpieza
+C0121,49,M,36391.184988954,Toluca,Estado de México,web,4.9,1391.63,Abarrotes
+C0122,29,H,15097.291516482728,Querétaro,Querétaro,tienda,1.3,441.9,Computación
+C0123,56,M,14435.979828793825,Mérida,Yucatán,app,4.9,399.78,Electrónica
+C0124,23,H,29627.075816941608,Puebla,Puebla,app,0.7,1672.44,Electrónica
+C0125,47,H,30636.5771658457,Toluca,Estado de México,web,4.0,1355.78,Abarrotes
+C0126,66,M,13817.119782773854,Toluca,Estado de México,web,4.1,804.81,Abarrotes
+C0127,28,M,14638.505463233141,CDMX,Ciudad de México,tienda,1.8,530.04,Computación
+C0128,33,H,15745.723129115942,Cancún,Quintana Roo,web,2.2,632.26,Computación
+C0129,41,H,7244.395911725784,Mérida,Yucatán,web,7.3,253.61,Limpieza
+C0130,33,H,10650.784428126415,Puebla,Puebla,tienda,2.3,722.64,Hogar
+C0131,21,M,9966.873865983456,Querétaro,Querétaro,web,3.7,565.6,Computación
+C0132,40,M,11857.619479166973,Querétaro,Querétaro,app,2.6,779.78,Abarrotes
+C0133,27,M,17722.52090090575,GDL,Jalisco,web,1.4,642.66,Computación
+C0134,45,M,19873.717860292167,Toluca,Estado de México,tienda,1.5,983.56,Electrónica
+C0135,28,M,30404.003942512616,Tijuana,Baja California,web,3.3,1533.24,Hogar
+C0136,58,H,10013.167674089673,CDMX,Ciudad de México,tienda,6.4,427.45,Limpieza
+C0137,30,M,25874.57918781267,Mérida,Yucatán,tienda,0.7,1495.27,Electrónica
+C0138,36,H,16288.089246195928,Querétaro,Querétaro,tienda,7.0,1042.86,Electrónica
+C0139,49,H,17604.290322780536,Puebla,Puebla,tienda,4.0,1075.18,Hogar
+C0140,25,H,23398.55593733283,GDL,Jalisco,web,2.1,1259.7,Limpieza
+C0141,42,M,9018.223827501612,Puebla,Puebla,web,3.2,380.45,Abarrotes
+C0142,55,M,21059.277969472405,CDMX,Ciudad de México,tienda,3.9,758.41,Limpieza
+C0143,20,M,19331.61766570445,Tijuana,Baja California,app,0.9,1231.56,Computación
+C0144,42,H,21939.610112065195,GDL,Jalisco,app,2.2,547.82,Electrónica
+C0145,43,H,20313.349151262544,GDL,Jalisco,app,2.5,1088.08,Computación
+C0146,49,H,37642.401119287155,Cancún,Quintana Roo,tienda,0.5,1916.24,Abarrotes
+C0147,25,H,12898.080125989472,Mérida,Yucatán,web,4.5,679.22,Computación
+C0148,24,H,13752.024359985458,GDL,Jalisco,app,1.5,919.68,Limpieza
+C0149,46,H,13014.875788601885,Cancún,Quintana Roo,web,1.6,522.66,Computación
+C0150,43,M,13556.183046717962,Cancún,Quintana Roo,tienda,2.3,555.47,Abarrotes
+C0151,43,M,12900.902981547859,CDMX,Ciudad de México,tienda,3.5,398.75,Abarrotes
+C0152,44,M,27512.132248860413,MTY,Nuevo León,web,3.3,1137.54,Abarrotes
+C0153,31,M,29364.03398391884,Puebla,Puebla,app,2.6,993.9,Limpieza
+C0154,42,H,13434.02965000419,Tijuana,Baja California,web,3.2,553.2,Abarrotes
+C0155,43,H,11341.15541516617,Chihuahua,Chihuahua,web,1.4,705.42,Electrónica
+C0156,31,M,21771.324451091234,Puebla,Puebla,tienda,2.8,1350.1,Abarrotes
+C0157,62,H,13582.215645752229,GDL,Jalisco,web,3.7,472.55,Computación
+C0158,45,M,23063.454542044085,Tijuana,Baja California,app,1.5,904.92,Computación
+C0159,25,M,19623.384166810396,Querétaro,Querétaro,tienda,2.6,1221.38,Computación
+C0160,47,M,5874.047080022145,MTY,Nuevo León,web,3.8,232.0,Limpieza
+C0161,28,H,30380.041610640495,Querétaro,Querétaro,app,2.3,819.84,Computación
+C0162,49,M,32367.02138476417,Querétaro,Querétaro,tienda,0.8,958.1,Limpieza
+C0163,53,M,13097.69047612491,Mérida,Yucatán,web,6.3,673.79,Limpieza
+C0164,30,M,14898.387520512126,Puebla,Puebla,tienda,5.5,487.64,Abarrotes
+C0165,51,H,20286.92312579924,Chihuahua,Chihuahua,web,2.5,1291.31,Electrónica
+C0166,44,H,20675.6543198962,CDMX,Ciudad de México,web,6.9,882.96,Abarrotes
+C0167,49,M,23268.354181382645,Chihuahua,Chihuahua,web,3.9,1032.15,Abarrotes
+C0168,62,H,34081.636310130794,Querétaro,Querétaro,web,2.1,1117.89,Limpieza
+C0169,37,H,16584.422180047604,GDL,Jalisco,tienda,1.4,744.11,Limpieza
+C0170,30,H,11613.62204369237,MTY,Nuevo León,app,0.9,639.76,Computación
+C0171,29,H,6965.446175883782,Toluca,Estado de México,web,2.2,448.6,Computación
+C0172,30,H,12152.559680464648,Chihuahua,Chihuahua,tienda,1.2,709.51,Abarrotes
+C0173,39,H,17734.984217009624,Querétaro,Querétaro,web,1.3,864.66,Hogar
+C0174,44,H,32356.4629081423,MTY,Nuevo León,web,3.2,1917.6,Hogar
+C0175,43,H,13859.109607710629,Tijuana,Baja California,tienda,0.7,830.32,Computación
+C0176,49,H,19790.303613111188,Puebla,Puebla,app,0.5,1095.09,Hogar
+C0177,40,H,17868.616831417985,Cancún,Quintana Roo,app,2.7,497.12,Computación
+C0178,57,M,27507.146187584673,Mérida,Yucatán,tienda,3.8,657.71,Limpieza
+C0179,36,M,38215.45940698897,MTY,Nuevo León,app,3.4,1189.06,Abarrotes
+C0180,70,H,13753.049816637435,GDL,Jalisco,tienda,0.5,740.08,Electrónica
+C0181,47,M,14084.484459854222,GDL,Jalisco,tienda,1.4,613.35,Abarrotes
+C0182,29,M,26353.287016552575,MTY,Nuevo León,tienda,1.5,1051.25,Computación
+C0183,27,H,23455.13191701049,GDL,Jalisco,app,0.6,1399.03,Computación
+C0184,45,H,32773.65860588827,Puebla,Puebla,web,2.6,1929.51,Abarrotes
+C0185,37,H,22671.425482607712,GDL,Jalisco,tienda,2.9,1377.92,Computación
+C0186,48,M,15125.663273703523,Chihuahua,Chihuahua,tienda,2.2,592.42,Hogar
+C0187,45,M,22725.238645538473,Cancún,Quintana Roo,web,0.5,1182.68,Hogar
+C0188,39,H,26869.628644663262,GDL,Jalisco,tienda,8.6,929.34,Computación
+C0189,29,H,24563.857449578914,Cancún,Quintana Roo,app,1.2,778.56,Computación
+C0190,21,H,22058.19224885838,Querétaro,Querétaro,app,4.9,704.07,Hogar
+C0191,34,M,26533.39751671323,CDMX,Ciudad de México,web,6.3,993.76,Computación
+C0192,50,M,27354.364723565384,Puebla,Puebla,app,1.8,1117.54,Computación
+C0193,42,M,29057.271928300215,CDMX,Ciudad de México,tienda,3.4,1646.95,Abarrotes
+C0194,25,M,23189.67910071714,Querétaro,Querétaro,app,0.7,675.0,Electrónica
+C0195,42,H,16663.055357465164,Puebla,Puebla,web,1.9,923.11,Hogar
+C0196,44,H,19173.709491466583,MTY,Nuevo León,web,3.5,891.07,Abarrotes
+C0197,29,H,27652.071732066855,MTY,Nuevo León,tienda,2.5,971.53,Electrónica
+C0198,41,H,11464.514632102111,Cancún,Quintana Roo,app,4.1,555.29,Computación
+C0199,40,M,20949.38647098321,Querétaro,Querétaro,tienda,1.7,770.33,Computación
+C0200,26,M,14853.289501381114,Cancún,Quintana Roo,tienda,4.9,751.22,Abarrotes
+C0201,44,H,18229.95858347854,Mérida,Yucatán,tienda,1.1,780.96,Computación
+C0202,46,H,28227.61490085839,GDL,Jalisco,web,3.4,850.18,Limpieza
+C0203,52,M,19528.792544159227,Toluca,Estado de México,web,1.5,581.64,Abarrotes
+C0204,52,H,18371.492385249192,Mérida,Yucatán,web,0.5,869.17,Electrónica
+C0205,23,M,7121.150872160646,GDL,Jalisco,app,4.1,499.47,Abarrotes
+C0206,28,H,23970.028528217765,Puebla,Puebla,tienda,1.3,909.19,Hogar
+C0207,46,H,23163.8734491286,Cancún,Quintana Roo,web,1.0,1242.44,Abarrotes
+C0208,46,H,35306.03778644368,Puebla,Puebla,tienda,5.7,1736.31,Computación
+C0209,46,H,15537.774120375994,Puebla,Puebla,app,4.4,989.73,Computación
+C0210,70,H,19753.202621311513,GDL,Jalisco,app,1.0,1143.74,Limpieza
+C0211,46,H,19995.06946968604,Querétaro,Querétaro,web,0.8,953.07,Limpieza
+C0212,53,H,30619.626238107798,GDL,Jalisco,web,1.7,1517.11,Limpieza
+C0213,51,M,17237.635740904385,Tijuana,Baja California,tienda,0.9,1064.2,Electrónica
+C0214,47,M,20232.172206162715,MTY,Nuevo León,web,6.5,827.97,Limpieza
+C0215,36,M,22863.172077732313,MTY,Nuevo León,app,0.4,856.13,Electrónica
+C0216,49,M,19492.872985250866,Mérida,Yucatán,web,7.9,498.29,Limpieza
+C0217,30,M,14428.531083595773,MTY,Nuevo León,tienda,3.3,865.61,Electrónica
+C0218,37,H,19552.71994318646,GDL,Jalisco,web,3.8,1117.51,Abarrotes
+C0219,34,H,26589.053998878175,Chihuahua,Chihuahua,app,2.7,742.87,Abarrotes
+C0220,40,M,9787.877604711519,Cancún,Quintana Roo,tienda,0.5,521.61,Computación
+C0221,67,H,19063.75739317501,GDL,Jalisco,tienda,4.4,835.08,Electrónica
+C0222,18,M,12399.033480486614,GDL,Jalisco,web,2.6,406.86,Hogar
+C0223,48,M,27560.37303139874,Toluca,Estado de México,app,1.1,1732.2,Computación
+C0224,20,H,5814.504761729802,Cancún,Quintana Roo,tienda,5.2,266.22,Abarrotes
+C0225,34,H,13528.625221827293,Tijuana,Baja California,tienda,5.0,406.96,Electrónica
+C0226,53,H,21017.695000516167,MTY,Nuevo León,tienda,5.3,1020.45,Limpieza
+C0227,40,M,30524.192233874724,Cancún,Quintana Roo,tienda,4.8,1612.62,Hogar
+C0228,27,H,17473.997911416096,MTY,Nuevo León,web,1.6,472.16,Abarrotes
+C0229,31,M,13558.403786454412,Mérida,Yucatán,web,3.7,728.41,Computación
+C0230,48,M,33049.25655552472,Cancún,Quintana Roo,web,5.2,1464.66,Electrónica
+C0231,31,M,6415.888796670048,MTY,Nuevo León,web,4.8,254.82,Hogar
+C0232,42,H,5000.0,Tijuana,Baja California,tienda,0.1,234.5,Electrónica
+C0233,40,H,21520.11560042666,CDMX,Ciudad de México,app,2.4,1019.32,Limpieza
+C0234,32,M,13983.566205179111,Puebla,Puebla,web,1.4,545.44,Computación
+C0235,65,H,9830.137462954295,Puebla,Puebla,app,6.5,665.55,Electrónica
+C0236,47,H,23666.851578394828,Tijuana,Baja California,web,2.4,1348.42,Abarrotes
+C0237,18,H,19950.40571016959,Toluca,Estado de México,tienda,3.5,1283.91,Computación
+C0238,42,M,13487.370954106173,CDMX,Ciudad de México,web,2.9,509.84,Abarrotes
+C0239,32,M,7757.5648106328445,Mérida,Yucatán,tienda,6.0,556.06,Electrónica
+C0240,50,H,24979.65862624116,Tijuana,Baja California,web,7.9,1030.48,Computación
+C0241,30,M,23201.609423669288,Puebla,Puebla,tienda,2.6,886.55,Abarrotes
+C0242,38,H,17206.593089764938,Puebla,Puebla,tienda,3.0,478.79,Limpieza
+C0243,46,H,32773.09596838133,Puebla,Puebla,app,6.3,824.63,Limpieza
+C0244,50,H,9439.32186939078,Querétaro,Querétaro,tienda,0.9,550.07,Electrónica
+C0245,25,H,5795.798632602089,Tijuana,Baja California,app,1.0,322.08,Computación
+C0246,35,M,12464.735440950044,GDL,Jalisco,tienda,1.4,462.24,Hogar
+C0247,34,M,17635.311869156016,Mérida,Yucatán,web,4.3,885.81,Computación
+C0248,32,M,19946.715594581536,Puebla,Puebla,web,2.6,700.68,Limpieza
+C0249,61,H,16070.111537149362,MTY,Nuevo León,web,1.5,792.71,Abarrotes
+C0250,44,H,20816.443172114374,Tijuana,Baja California,tienda,5.8,815.43,Hogar
+C0251,24,H,7987.684606476447,Querétaro,Querétaro,tienda,0.6,522.88,Electrónica
+C0252,51,M,29550.116832586078,Tijuana,Baja California,tienda,1.4,1661.07,Hogar
+C0253,65,H,17342.79057285945,Mérida,Yucatán,tienda,2.2,778.0,Electrónica
+C0254,52,M,26938.366652705023,Querétaro,Querétaro,web,7.9,1016.79,Hogar
+C0255,21,M,20741.802771021634,Mérida,Yucatán,app,1.4,815.64,Electrónica
+C0256,34,M,21654.02575323027,Tijuana,Baja California,app,3.7,1230.96,Electrónica
+C0257,55,M,22558.138241857632,GDL,Jalisco,web,2.2,847.29,Hogar
+C0258,31,M,21581.66848013852,Mérida,Yucatán,web,0.8,712.11,Hogar
+C0259,45,M,23141.782078940352,Querétaro,Querétaro,web,3.7,641.23,Electrónica
+C0260,49,H,28633.22024105945,Querétaro,Querétaro,tienda,2.0,1207.18,Limpieza
+C0261,28,H,19572.16935761176,Mérida,Yucatán,app,1.6,868.9,Hogar
+C0262,39,M,23672.030060708097,Chihuahua,Chihuahua,web,0.7,1369.68,Computación
+C0263,18,M,17282.114445702187,Tijuana,Baja California,web,2.7,598.58,Abarrotes
+C0264,27,H,29520.93772359578,Chihuahua,Chihuahua,tienda,6.7,1140.31,Electrónica
+C0265,36,M,12588.861583525842,Toluca,Estado de México,tienda,1.5,758.85,Electrónica
+C0266,25,M,32407.523463286525,Tijuana,Baja California,web,0.9,1815.81,Abarrotes
+C0267,59,H,17678.73639484525,Mérida,Yucatán,app,0.5,725.55,Limpieza
+C0268,22,M,6553.799183055615,CDMX,Ciudad de México,web,0.4,351.44,Abarrotes
+C0269,34,M,19024.835319286314,Mérida,Yucatán,tienda,2.3,711.3,Hogar
+C0270,41,M,12551.586740200953,Chihuahua,Chihuahua,app,2.7,819.23,Abarrotes
+C0271,57,H,24725.148391909792,GDL,Jalisco,tienda,3.3,711.84,Electrónica
+C0272,22,H,12779.008165580872,Mérida,Yucatán,tienda,2.3,832.88,Abarrotes
+C0273,53,H,14430.532534281763,Mérida,Yucatán,tienda,2.9,783.35,Computación
+C0274,40,M,5000.0,GDL,Jalisco,web,6.7,306.31,Hogar
+C0275,28,M,14381.549446007386,Mérida,Yucatán,app,5.8,406.42,Abarrotes
+C0276,45,H,5000.0,Puebla,Puebla,tienda,5.6,295.12,Electrónica
+C0277,42,M,5328.777412114214,CDMX,Ciudad de México,app,5.0,293.49,Hogar
+C0278,32,M,24083.31724915438,MTY,Nuevo León,tienda,4.0,736.97,Electrónica
+C0279,40,M,24286.401269206657,CDMX,Ciudad de México,app,0.5,1223.4,Limpieza
+C0280,35,M,21403.660494279717,Mérida,Yucatán,web,2.1,1359.52,Computación
+C0281,41,M,10264.190854966295,Puebla,Puebla,app,3.1,536.1,Limpieza
+C0282,47,H,17618.309150864163,Tijuana,Baja California,tienda,1.2,956.08,Computación
+C0283,59,M,17971.179687275453,Mérida,Yucatán,app,7.4,508.63,Abarrotes
+C0284,25,H,8733.082486459658,Chihuahua,Chihuahua,web,1.9,420.56,Hogar
+C0285,65,M,30027.186414137206,Puebla,Puebla,tienda,0.5,840.3,Abarrotes
+C0286,18,H,25018.898324605372,GDL,Jalisco,app,1.8,1213.64,Computación
+C0287,38,M,16232.286609362689,Puebla,Puebla,tienda,3.4,1033.99,Computación
+C0288,47,H,18215.086711956246,GDL,Jalisco,app,1.2,946.48,Computación
+C0289,43,M,19667.06246358042,Toluca,Estado de México,tienda,2.2,553.76,Electrónica
+C0290,32,H,5000.0,MTY,Nuevo León,web,0.5,270.93,Hogar
+C0291,37,M,16022.580939835225,Cancún,Quintana Roo,web,1.7,773.37,Abarrotes
+C0292,34,H,12544.126016017612,Puebla,Puebla,tienda,2.5,553.2,Abarrotes
+C0293,32,M,9987.039920840676,Querétaro,Querétaro,tienda,2.3,632.77,Limpieza
+C0294,50,H,15751.197656912362,Chihuahua,Chihuahua,tienda,4.4,928.31,Computación
+C0295,44,H,32381.49221479618,Mérida,Yucatán,web,1.0,1540.11,Computación
+C0296,31,M,23126.74289013608,Chihuahua,Chihuahua,tienda,3.3,908.01,Computación
+C0297,50,M,13430.568081737627,CDMX,Ciudad de México,web,3.8,505.78,Abarrotes
+C0298,43,H,22580.66225084927,Cancún,Quintana Roo,tienda,1.4,647.24,Limpieza
+C0299,49,M,29194.843492688015,CDMX,Ciudad de México,tienda,1.2,1098.34,Electrónica
+C0300,47,H,25397.06946330215,Toluca,Estado de México,web,7.5,1027.68,Hogar
+C0301,30,H,18477.04295936139,Cancún,Quintana Roo,tienda,2.0,969.03,Electrónica
+C0302,33,H,12824.505778355408,Cancún,Quintana Roo,app,3.4,694.11,Abarrotes
+C0303,48,M,23585.78650890872,CDMX,Ciudad de México,app,3.5,637.86,Computación
+C0304,47,H,21147.883083373996,GDL,Jalisco,web,0.7,857.31,Hogar
+C0305,39,H,25161.54576022186,CDMX,Ciudad de México,web,2.9,786.18,Abarrotes
+C0306,41,M,23081.374413455756,Chihuahua,Chihuahua,app,2.8,706.41,Abarrotes
+C0307,55,M,26396.42172255468,GDL,Jalisco,tienda,7.5,1501.44,Abarrotes
+C0308,32,M,13718.118307515455,Chihuahua,Chihuahua,tienda,2.8,397.36,Hogar
+C0309,46,M,28539.152525074605,Toluca,Estado de México,tienda,4.3,1149.31,Hogar
+C0310,37,H,19580.796837539197,Mérida,Yucatán,web,4.4,623.36,Limpieza
+C0311,37,H,34602.086981002125,Tijuana,Baja California,tienda,2.0,2009.11,Limpieza
+C0312,53,H,12486.497455283457,GDL,Jalisco,web,9.4,627.95,Electrónica
+C0313,49,H,31887.710425321995,Toluca,Estado de México,app,1.3,1032.88,Hogar
+C0314,49,M,19583.286267701184,Querétaro,Querétaro,app,0.5,885.23,Hogar
+C0315,55,H,12788.655971084412,Toluca,Estado de México,web,1.7,729.96,Hogar
+C0316,40,H,14128.913327565428,CDMX,Ciudad de México,tienda,0.4,924.06,Limpieza
+C0317,48,M,15437.221534445438,CDMX,Ciudad de México,app,1.4,544.87,Abarrotes
+C0318,36,H,21393.32757121533,Tijuana,Baja California,web,2.5,1286.2,Computación
+C0319,43,H,22182.683904283997,Toluca,Estado de México,tienda,3.0,1372.67,Limpieza
+C0320,38,H,13410.399968491369,MTY,Nuevo León,tienda,1.8,859.79,Hogar
+C0321,41,H,17805.163261912137,Mérida,Yucatán,app,1.4,908.65,Limpieza
+C0322,47,H,35138.16286889491,CDMX,Ciudad de México,web,1.7,1687.99,Electrónica
+C0323,30,H,31820.34536080569,Tijuana,Baja California,app,3.7,1249.62,Hogar
+C0324,65,M,21490.58935739226,Mérida,Yucatán,app,1.0,1176.59,Electrónica
+C0325,27,M,18304.0278253456,Toluca,Estado de México,web,1.4,855.07,Hogar
+C0326,25,H,18960.25061374609,Toluca,Estado de México,web,3.2,992.98,Limpieza
+C0327,53,H,22908.143781843333,Cancún,Quintana Roo,tienda,2.7,950.77,Abarrotes
+C0328,49,M,9817.659478412756,Tijuana,Baja California,tienda,0.5,583.62,Computación
+C0329,47,H,15940.98770061324,CDMX,Ciudad de México,tienda,5.1,944.54,Electrónica
+C0330,47,H,5000.0,MTY,Nuevo León,web,1.7,229.29,Limpieza
+C0331,39,H,21193.784980842232,Toluca,Estado de México,web,0.9,1229.99,Abarrotes
+C0332,29,M,23177.56751762193,MTY,Nuevo León,app,0.7,1064.46,Limpieza
+C0333,40,H,14134.508301605008,Toluca,Estado de México,tienda,5.2,860.25,Electrónica
+C0334,31,M,30591.894106320262,CDMX,Ciudad de México,web,0.2,1239.61,Computación
+C0335,51,H,8193.87469598127,Mérida,Yucatán,web,3.4,388.11,Limpieza
+C0336,38,M,6285.000958321438,Puebla,Puebla,web,4.5,455.75,Hogar
+C0337,30,M,19795.614548479774,Mérida,Yucatán,web,1.8,694.79,Abarrotes
+C0338,36,H,26376.78642089724,Toluca,Estado de México,tienda,7.0,1518.24,Limpieza
+C0339,44,M,31471.42153166295,Chihuahua,Chihuahua,web,1.0,1338.74,Abarrotes
+C0340,33,H,14328.92589704848,Puebla,Puebla,tienda,3.7,681.24,Hogar
+C0341,30,M,26629.446667450364,Puebla,Puebla,tienda,2.7,961.16,Computación
+C0342,42,H,17691.932243994343,MTY,Nuevo León,web,7.6,859.37,Computación
+C0343,42,H,16618.981600473442,Tijuana,Baja California,web,2.0,648.57,Hogar
+C0344,33,M,25069.27949989338,MTY,Nuevo León,app,3.4,640.76,Abarrotes
+C0345,34,H,23218.58302730736,MTY,Nuevo León,web,2.7,816.99,Limpieza
+C0346,42,H,5388.862744126005,Chihuahua,Chihuahua,web,0.6,209.15,Hogar
+C0347,22,M,29812.322797807166,Mérida,Yucatán,web,2.2,1862.93,Electrónica
+C0348,23,H,29040.730833179612,Mérida,Yucatán,web,1.5,1802.65,Abarrotes
+C0349,31,H,12995.498387923764,Querétaro,Querétaro,tienda,2.7,565.32,Computación
+C0350,37,M,21166.428267499272,Toluca,Estado de México,tienda,3.5,1140.01,Hogar
+C0351,43,M,21952.24149026191,Chihuahua,Chihuahua,tienda,6.1,842.69,Computación
+C0352,57,H,20085.390126591257,Querétaro,Querétaro,web,0.2,1040.87,Abarrotes
+C0353,50,H,13597.558769236639,CDMX,Ciudad de México,tienda,2.5,810.03,Computación
+C0354,38,M,12627.013056495587,Toluca,Estado de México,tienda,0.7,830.73,Hogar
+C0355,39,M,17795.567432068437,Toluca,Estado de México,tienda,3.7,740.79,Abarrotes
+C0356,27,H,27381.832154074917,Cancún,Quintana Roo,app,9.7,1505.56,Electrónica
+C0357,39,M,22348.80123675546,Cancún,Quintana Roo,tienda,1.9,784.7,Hogar
+C0358,36,H,15035.085343311152,GDL,Jalisco,web,1.3,996.29,Limpieza
+C0359,43,H,24173.58968518676,GDL,Jalisco,tienda,1.7,608.39,Hogar
+C0360,30,H,5000.0,MTY,Nuevo León,web,0.7,320.71,Abarrotes
+C0361,46,H,27190.125602976826,CDMX,Ciudad de México,tienda,0.1,1361.08,Hogar
+C0362,58,H,5000.0,Puebla,Puebla,tienda,3.0,337.61,Electrónica
+C0363,38,M,15100.472468774942,Puebla,Puebla,web,2.4,474.73,Electrónica
+C0364,44,M,9042.64084299085,Cancún,Quintana Roo,tienda,1.3,620.32,Limpieza
+C0365,48,M,7642.548194232753,Cancún,Quintana Roo,tienda,0.9,308.24,Computación
+C0366,35,M,27286.614299028155,Cancún,Quintana Roo,tienda,4.5,1325.45,Abarrotes
+C0367,42,H,14258.39038950487,Chihuahua,Chihuahua,tienda,5.8,512.17,Abarrotes
+C0368,40,H,20772.031053845727,Tijuana,Baja California,tienda,2.8,770.7,Computación
+C0369,41,H,17624.635368966527,GDL,Jalisco,tienda,0.2,837.74,Electrónica
+C0370,30,H,21816.326617784973,Chihuahua,Chihuahua,app,2.2,900.39,Electrónica
+C0371,40,M,18614.575128482044,Mérida,Yucatán,web,3.2,591.59,Hogar
+C0372,45,H,7736.062206491442,Puebla,Puebla,web,2.0,307.62,Limpieza
+C0373,57,H,25970.13455557712,Toluca,Estado de México,tienda,2.2,1053.77,Limpieza
+C0374,51,M,14049.9473347095,GDL,Jalisco,app,1.4,806.59,Limpieza
+C0375,65,M,5547.344810721992,Querétaro,Querétaro,tienda,2.0,410.2,Hogar
+C0376,30,M,14575.0787122727,Mérida,Yucatán,tienda,4.8,440.55,Limpieza
+C0377,50,M,30006.078325074486,GDL,Jalisco,web,2.9,1171.94,Computación
+C0378,42,H,24801.773936907943,Chihuahua,Chihuahua,tienda,1.6,695.49,Hogar
+C0379,66,H,15210.782924737126,CDMX,Ciudad de México,tienda,2.0,414.31,Computación
+C0380,30,M,15205.93836545257,Toluca,Estado de México,web,6.1,806.6,Hogar
+C0381,29,H,15426.919590260939,GDL,Jalisco,app,0.9,780.3,Limpieza
+C0382,32,H,34613.98386848673,Tijuana,Baja California,web,1.4,1017.99,Computación
+C0383,18,H,21055.483617852427,Cancún,Quintana Roo,web,2.2,718.03,Computación
+C0384,33,M,21440.333177528555,Cancún,Quintana Roo,app,1.5,549.14,Computación
+C0385,30,H,26242.267632254738,Toluca,Estado de México,tienda,5.9,1501.28,Hogar
+C0386,41,M,19910.313272212108,Chihuahua,Chihuahua,tienda,4.9,1274.46,Abarrotes
+C0387,44,H,15927.662833434375,Cancún,Quintana Roo,tienda,2.1,504.86,Limpieza
+C0388,62,H,16429.201207320173,GDL,Jalisco,tienda,9.2,580.7,Computación
+C0389,51,H,17427.18992468749,Querétaro,Querétaro,tienda,3.1,1053.9,Abarrotes
+C0390,33,M,17702.22210792127,Puebla,Puebla,app,6.7,1110.06,Limpieza
+C0391,29,H,23821.03634909584,Puebla,Puebla,web,6.3,976.26,Limpieza
+C0392,45,M,18415.567086458395,Mérida,Yucatán,web,3.4,505.6,Computación
+C0393,24,M,23861.120617724635,MTY,Nuevo León,tienda,0.9,614.82,Computación
+C0394,61,M,17354.267359131343,CDMX,Ciudad de México,app,2.6,845.5,Hogar
+C0395,54,H,18629.081522528726,Toluca,Estado de México,app,1.3,765.35,Abarrotes
+C0396,34,H,5000.0,Mérida,Yucatán,app,3.7,205.73,Abarrotes
+C0397,19,H,25330.621397619852,MTY,Nuevo León,tienda,3.3,1197.58,Computación
+C0398,56,H,20771.907807183943,Chihuahua,Chihuahua,web,2.9,524.83,Limpieza
+C0399,38,M,25984.08087887722,Tijuana,Baja California,tienda,4.3,1438.05,Computación
+C0400,54,M,5000.0,Tijuana,Baja California,tienda,3.2,261.29,Limpieza
+C0401,20,M,34706.99763824582,CDMX,Ciudad de México,tienda,2.3,850.03,Limpieza
+C0402,32,H,16883.28297475861,Cancún,Quintana Roo,web,0.8,835.0,Computación
+C0403,40,M,26865.462533900132,GDL,Jalisco,web,1.5,1064.67,Electrónica
+C0404,40,H,9680.752582995752,Mérida,Yucatán,tienda,1.0,670.7,Abarrotes
+C0405,34,M,22902.191240500557,Mérida,Yucatán,tienda,4.5,1056.58,Limpieza
+C0406,47,H,9572.67549461075,Toluca,Estado de México,web,2.2,396.84,Limpieza
+C0407,27,H,13009.848314433559,Toluca,Estado de México,tienda,3.0,729.38,Electrónica
+C0408,38,M,33312.25083093429,Tijuana,Baja California,tienda,1.7,1128.01,Hogar
+C0409,41,M,16474.540793893226,Tijuana,Baja California,tienda,5.3,1025.37,Electrónica
+C0410,46,M,19739.46298543778,Querétaro,Querétaro,web,3.8,790.66,Electrónica
+C0411,48,M,24960.541845510033,Querétaro,Querétaro,tienda,2.7,1148.21,Limpieza
+C0412,26,H,21965.455103780838,Cancún,Quintana Roo,tienda,2.4,583.74,Abarrotes
+C0413,21,M,19203.35124114861,Querétaro,Querétaro,tienda,1.2,811.39,Electrónica
+C0414,55,M,20919.6880197298,GDL,Jalisco,app,1.5,1214.91,Hogar
+C0415,43,M,37227.324681906204,GDL,Jalisco,web,0.6,2044.23,Computación
+C0416,31,H,17539.049623731316,Mérida,Yucatán,web,3.9,608.15,Electrónica
+C0417,58,H,19608.79237371974,Puebla,Puebla,tienda,4.1,669.5,Electrónica
+C0418,41,M,26405.235168060895,GDL,Jalisco,web,4.3,1491.35,Hogar
+C0419,54,H,26844.20746366387,MTY,Nuevo León,tienda,1.1,1635.92,Abarrotes
+C0420,40,M,27496.24244448304,Tijuana,Baja California,web,6.4,754.81,Electrónica
+C0421,64,H,23109.841776233476,Toluca,Estado de México,app,1.9,978.23,Electrónica
+C0422,61,H,8855.960698156132,Querétaro,Querétaro,web,3.6,396.66,Abarrotes
+C0423,37,H,31067.452258408768,Mérida,Yucatán,app,0.8,1803.35,Hogar
+C0424,51,H,8829.236855850497,CDMX,Ciudad de México,web,5.5,306.08,Electrónica
+C0425,47,M,20421.083721912266,Toluca,Estado de México,tienda,4.0,680.88,Abarrotes
+C0426,56,M,11965.793199845137,MTY,Nuevo León,app,2.0,699.47,Electrónica
+C0427,28,M,17486.89322725606,Querétaro,Querétaro,tienda,1.7,485.62,Computación
+C0428,48,H,20630.099282427844,MTY,Nuevo León,web,4.0,919.04,Limpieza
+C0429,52,M,20570.857723602185,Tijuana,Baja California,tienda,5.5,875.2,Computación
+C0430,18,M,21375.366033882277,Tijuana,Baja California,tienda,1.2,813.43,Electrónica
+C0431,25,M,30909.69015246918,Cancún,Quintana Roo,tienda,2.3,1206.04,Hogar
+C0432,18,H,21628.274412111838,Mérida,Yucatán,tienda,1.6,991.03,Limpieza
+C0433,36,H,16046.74691767481,Toluca,Estado de México,web,5.7,524.51,Computación
+C0434,48,H,25712.697346306857,Chihuahua,Chihuahua,web,1.5,1202.56,Abarrotes
+C0435,58,M,27515.763911397124,Chihuahua,Chihuahua,tienda,0.8,1536.8,Hogar
+C0436,40,M,8179.13747890406,Toluca,Estado de México,tienda,4.1,512.28,Computación
+C0437,59,M,22779.200558798864,CDMX,Ciudad de México,web,6.1,695.81,Abarrotes
+C0438,23,H,23609.381938487186,Mérida,Yucatán,tienda,3.9,713.14,Electrónica
+C0439,19,H,15619.491973120064,MTY,Nuevo León,web,5.2,579.94,Abarrotes
+C0440,39,M,29005.654506492956,CDMX,Ciudad de México,web,8.8,1099.04,Computación
+C0441,44,H,16799.555303739788,Puebla,Puebla,app,7.7,710.47,Computación
+C0442,39,H,19004.611627772338,Toluca,Estado de México,web,7.7,996.79,Electrónica
+C0443,18,H,16615.42540572904,MTY,Nuevo León,tienda,1.7,469.98,Abarrotes
+C0444,38,H,18124.63238065174,Chihuahua,Chihuahua,web,4.1,487.63,Abarrotes
+C0445,24,M,9229.799304838385,GDL,Jalisco,tienda,2.8,429.29,Electrónica
+C0446,48,H,6479.5929392456455,Cancún,Quintana Roo,tienda,2.8,410.29,Abarrotes
+C0447,44,H,30756.040505799778,Chihuahua,Chihuahua,web,5.4,953.09,Electrónica
+C0448,28,H,11224.309213453376,Mérida,Yucatán,tienda,3.7,612.5,Hogar
+C0449,33,H,10068.861204349541,Tijuana,Baja California,web,2.4,406.02,Computación
+C0450,27,M,5000.0,GDL,Jalisco,app,1.4,377.22,Hogar
+C0451,39,M,12888.306018483981,Cancún,Quintana Roo,app,3.7,819.52,Limpieza
+C0452,51,H,7415.281652740014,Cancún,Quintana Roo,app,2.2,336.48,Limpieza
+C0453,28,H,31136.121281090953,Puebla,Puebla,tienda,5.3,1009.17,Limpieza
+C0454,46,H,26078.536714741073,Puebla,Puebla,tienda,5.2,1050.62,Electrónica
+C0455,33,H,12494.797238578209,Querétaro,Querétaro,web,3.4,470.11,Abarrotes
+C0456,30,H,36019.48644275447,Chihuahua,Chihuahua,tienda,1.0,1789.15,Hogar
+C0457,38,H,25854.123895932753,Chihuahua,Chihuahua,web,1.8,1471.37,Hogar
+C0458,27,M,15401.348931931021,Chihuahua,Chihuahua,web,7.9,822.69,Hogar
+C0459,33,H,5000.0,Querétaro,Querétaro,web,3.7,364.87,Hogar
+C0460,25,M,36327.54058072594,CDMX,Ciudad de México,tienda,6.1,1403.42,Limpieza
+C0461,63,M,6883.420265891233,Cancún,Quintana Roo,tienda,1.0,280.71,Hogar
+C0462,40,H,5000.0,GDL,Jalisco,tienda,14.4,347.59,Abarrotes
+C0463,31,M,26180.56345607712,Mérida,Yucatán,tienda,0.5,1001.11,Limpieza
+C0464,42,M,37518.019250714184,Cancún,Quintana Roo,app,3.7,1857.75,Hogar
+C0465,38,M,29074.182548084143,Puebla,Puebla,tienda,0.4,996.23,Electrónica
+C0466,37,M,22511.27296041888,MTY,Nuevo León,tienda,5.3,623.37,Computación
+C0467,47,M,22758.03473332229,Tijuana,Baja California,tienda,1.2,1458.73,Computación
+C0468,49,M,24827.324470242464,Querétaro,Querétaro,web,2.2,751.67,Computación
+C0469,33,H,24071.42871829412,Toluca,Estado de México,web,3.2,1533.14,Limpieza
+C0470,33,M,20249.53139175501,MTY,Nuevo León,tienda,4.4,1296.57,Hogar
+C0471,36,M,18833.60883161501,Mérida,Yucatán,tienda,2.2,1074.69,Limpieza
+C0472,18,M,17499.254976803823,Chihuahua,Chihuahua,tienda,2.9,911.56,Abarrotes
+C0473,21,H,11968.283289066589,Puebla,Puebla,tienda,3.1,615.98,Electrónica
+C0474,56,M,15754.599385065807,Puebla,Puebla,web,2.6,960.9,Electrónica
+C0475,59,H,5000.0,Puebla,Puebla,web,2.2,257.89,Computación
+C0476,37,M,17213.282985642,Chihuahua,Chihuahua,tienda,1.7,766.28,Computación
+C0477,46,H,10091.27114279266,Toluca,Estado de México,tienda,3.2,551.84,Computación
+C0478,43,H,9171.285462273832,Querétaro,Querétaro,app,3.1,434.27,Hogar
+C0479,70,M,19439.15320922783,MTY,Nuevo León,web,1.4,821.18,Abarrotes
+C0480,53,M,29136.018290756794,Chihuahua,Chihuahua,web,2.2,1067.65,Abarrotes
+C0481,38,H,25346.532848018505,Mérida,Yucatán,tienda,0.4,1178.98,Abarrotes
+C0482,28,M,5435.995171014583,Querétaro,Querétaro,web,2.1,393.67,Abarrotes
+C0483,20,H,10082.9749074373,Mérida,Yucatán,tienda,0.4,382.94,Computación
+C0484,42,H,25526.169503905727,Querétaro,Querétaro,web,1.7,1564.62,Electrónica
+C0485,30,H,10140.100851693524,Toluca,Estado de México,app,1.0,582.3,Computación
+C0486,22,H,16202.934800023802,Tijuana,Baja California,tienda,1.3,957.64,Abarrotes
+C0487,32,H,22400.416792196414,Mérida,Yucatán,tienda,6.2,1046.36,Computación
+C0488,27,M,10253.244361090918,Chihuahua,Chihuahua,tienda,0.9,624.77,Abarrotes
+C0489,60,H,18843.00404916768,Querétaro,Querétaro,tienda,1.8,489.07,Limpieza
+C0490,50,H,7327.796040654364,Puebla,Puebla,tienda,3.2,486.43,Electrónica
+C0491,39,M,13189.05884839029,Cancún,Quintana Roo,tienda,0.3,384.96,Limpieza
+C0492,57,H,20558.255473140296,Puebla,Puebla,web,2.2,1242.97,Hogar
+C0493,40,M,5256.050131746646,CDMX,Ciudad de México,web,3.0,413.67,Computación
+C0494,29,M,21523.797903683193,Tijuana,Baja California,tienda,1.0,783.65,Hogar
+C0495,58,M,17842.89760858655,Tijuana,Baja California,app,0.6,606.97,Computación
+C0496,46,H,22419.91963533718,Puebla,Puebla,tienda,4.3,1234.77,Limpieza
+C0497,27,H,19791.313072517292,MTY,Nuevo León,app,0.3,696.14,Abarrotes
+C0498,37,H,28913.123439790754,Toluca,Estado de México,tienda,1.8,1679.31,Abarrotes
+C0499,29,M,19001.796021183258,Mérida,Yucatán,app,0.8,558.2,Computación
+C0500,23,H,14564.755670997976,Chihuahua,Chihuahua,web,0.2,464.68,Abarrotes

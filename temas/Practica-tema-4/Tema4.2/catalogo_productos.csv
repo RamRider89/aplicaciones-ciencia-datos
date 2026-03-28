@@ -1,0 +1,101 @@
+product_id,categoria,nombre_producto,precio
+P0001,Cuidado Personal,Producto_1,31.24
+P0002,Limpieza,Producto_2,57.04
+P0003,Hogar,Producto_3,20.85
+P0004,Cuidado Personal,Producto_4,88.08
+P0005,Bebidas,Producto_5,103.28
+P0006,Hogar,Producto_6,75.12
+P0007,Hogar,Producto_7,208.9
+P0008,Cuidado Personal,Producto_8,95.62
+P0009,Lácteos,Producto_9,77.42
+P0010,Bebidas,Producto_10,140.25
+P0011,Cuidado Personal,Producto_11,43.82
+P0012,Bebidas,Producto_12,202.53
+P0013,Bebidas,Producto_13,27.89
+P0014,Hogar,Producto_14,246.85
+P0015,Limpieza,Producto_15,195.34
+P0016,Bebidas,Producto_16,57.69
+P0017,Snacks,Producto_17,11.33
+P0018,Hogar,Producto_18,205.71
+P0019,Lácteos,Producto_19,179.65
+P0020,Limpieza,Producto_20,184.96
+P0021,Snacks,Producto_21,195.1
+P0022,Snacks,Producto_22,27.77
+P0023,Lácteos,Producto_23,96.03
+P0024,Limpieza,Producto_24,37.81
+P0025,Hogar,Producto_25,217.14
+P0026,Abarrotes,Producto_26,159.59
+P0027,Limpieza,Producto_27,89.42
+P0028,Lácteos,Producto_28,25.25
+P0029,Snacks,Producto_29,84.64
+P0030,Hogar,Producto_30,88.04
+P0031,Limpieza,Producto_31,185.11
+P0032,Abarrotes,Producto_32,163.01
+P0033,Abarrotes,Producto_33,222.93
+P0034,Bebidas,Producto_34,123.33
+P0035,Bebidas,Producto_35,38.7
+P0036,Cuidado Personal,Producto_36,181.18
+P0037,Lácteos,Producto_37,192.59
+P0038,Limpieza,Producto_38,144.71
+P0039,Limpieza,Producto_39,195.03
+P0040,Cuidado Personal,Producto_40,128.51
+P0041,Snacks,Producto_41,135.46
+P0042,Snacks,Producto_42,112.61
+P0043,Cuidado Personal,Producto_43,16.1
+P0044,Snacks,Producto_44,35.89
+P0045,Bebidas,Producto_45,17.54
+P0046,Limpieza,Producto_46,162.74
+P0047,Cuidado Personal,Producto_47,85.45
+P0048,Limpieza,Producto_48,132.06
+P0049,Abarrotes,Producto_49,227.82
+P0050,Bebidas,Producto_50,69.83
+P0051,Hogar,Producto_51,108.49
+P0052,Bebidas,Producto_52,191.33
+P0053,Cuidado Personal,Producto_53,64.91
+P0054,Hogar,Producto_54,28.48
+P0055,Abarrotes,Producto_55,79.54
+P0056,Cuidado Personal,Producto_56,48.69
+P0057,Lácteos,Producto_57,233.13
+P0058,Limpieza,Producto_58,203.95
+P0059,Abarrotes,Producto_59,162.02
+P0060,Limpieza,Producto_60,219.15
+P0061,Snacks,Producto_61,202.88
+P0062,Lácteos,Producto_62,54.78
+P0063,Lácteos,Producto_63,224.21
+P0064,Abarrotes,Producto_64,139.44
+P0065,Lácteos,Producto_65,203.79
+P0066,Hogar,Producto_66,225.06
+P0067,Lácteos,Producto_67,86.32
+P0068,Limpieza,Producto_68,36.41
+P0069,Limpieza,Producto_69,64.7
+P0070,Cuidado Personal,Producto_70,112.51
+P0071,Limpieza,Producto_71,206.32
+P0072,Cuidado Personal,Producto_72,216.58
+P0073,Limpieza,Producto_73,11.67
+P0074,Hogar,Producto_74,132.58
+P0075,Cuidado Personal,Producto_75,110.18
+P0076,Bebidas,Producto_76,63.31
+P0077,Snacks,Producto_77,38.77
+P0078,Abarrotes,Producto_78,91.03
+P0079,Limpieza,Producto_79,236.3
+P0080,Lácteos,Producto_80,87.57
+P0081,Limpieza,Producto_81,134.51
+P0082,Lácteos,Producto_82,178.72
+P0083,Snacks,Producto_83,97.27
+P0084,Snacks,Producto_84,243.23
+P0085,Snacks,Producto_85,240.99
+P0086,Lácteos,Producto_86,70.43
+P0087,Limpieza,Producto_87,129.34
+P0088,Snacks,Producto_88,82.21
+P0089,Hogar,Producto_89,78.36
+P0090,Cuidado Personal,Producto_90,18.85
+P0091,Lácteos,Producto_91,156.3
+P0092,Lácteos,Producto_92,130.64
+P0093,Limpieza,Producto_93,22.35
+P0094,Lácteos,Producto_94,76.88
+P0095,Lácteos,Producto_95,227.98
+P0096,Snacks,Producto_96,67.49
+P0097,Limpieza,Producto_97,44.77
+P0098,Snacks,Producto_98,127.47
+P0099,Cuidado Personal,Producto_99,246.56
+P0100,Cuidado Personal,Producto_100,68.09
