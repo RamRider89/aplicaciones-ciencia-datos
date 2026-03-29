@@ -10,9 +10,18 @@ Rúbrica de evaluación para actividad 2
 
 - Utiliza GridSearchCV o RandomizedSearchCV con validación cruzada y justifica los criterios de selección de los hiperparámetros evaluados.
 
+
+
+
 3. Evaluación del modelo con métricas apropiadas: 
 
 - Aplica diversas métricas de evaluación, como Accuracy, Recall, AUC y matriz de confusión, y analiza los errores de manera técnica, considerando su impacto en el contexto del negocio.
+
+
+
+
+
+
 
 4. Modelado no supervisado (clustering): 
 
