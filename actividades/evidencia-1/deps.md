@@ -4,7 +4,7 @@ pip install jupyter
 pip install ipykernel
 pip install pandas
 pip install scikit-learn 
-pip install matplotlib seaborn tabulate
+pip install matplotlib seaborn tabulate plotly
 pip install xgboost 
 pip install lightgbm mlxtend
 # modulo 5
