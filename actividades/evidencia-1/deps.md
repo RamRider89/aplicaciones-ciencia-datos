@@ -1,7 +1,7 @@
 conda create -n apps-data python=3.10
 conda activate apps-data
 pip install jupyter
-pip install ipkernel
+pip install ipykernel
 pip install pandas
 pip install scikit-learn 
 pip install matplotlib seaborn tabulate
