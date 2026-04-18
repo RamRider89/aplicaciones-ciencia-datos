@@ -1,0 +1,18 @@
+| Variable                 | Tipo de dato        | Descripción                                                                                                                                           |
+| ------------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| edad                     | Numérica (entero)   | Edad del cliente en años, con valores entre 18 y 75.                                                                                                  |
+| region                   | Categórica          | Región geográfica del cliente (Norte, Centro, Sur).                                                                                                   |
+| canal_adquisicion        | Categórica          | Canal de adquisición del cliente (Web, App, Sucursal, Referido).                                                                                      |
+| ingreso_mensual          | Numérica (continua) | Ingreso mensual estimado del cliente; puede contener valores nulos, especialmente en el segmento Básico.                                              |
+| antiguedad_cliente_meses | Numérica (entero)   | Tiempo, en meses, que el cliente ha permanecido activo en la empresa.                                                                                 |
+| segmento_cliente         | Categórica          | Segmento del cliente según su perfil (Básico, Plus, Premium).                                                                                         |
+| limite_credito           | Numérica (continua) | Límite de crédito asignado al cliente, asociado a su perfil financiero.                                                                               |
+| saldo_promedio           | Numérica (continua) | Saldo promedio utilizado durante el periodo de análisis; presenta valores atípicos en clientes de alto valor o riesgo.                                |
+| porcentaje_utilizacion   | Numérica (continua) | Proporción del crédito utilizado respecto al límite asignado, con valores entre 0 y 1.                                                                |
+| num_transacciones_mes    | Numérica (entero)   | Número promedio de transacciones mensuales realizadas por el cliente.                                                                                 |
+| pagos_atrasados_12m      | Numérica (entero)   | Número de pagos registrados con atraso en los últimos 12 meses.                                                                                       |
+| reclamos_12m             | Numérica (entero)   | Número de reclamos o incidencias reportadas en los últimos 12 meses.                                                                                  |
+| tipo_producto            | Categórica          | Tipo de producto financiero contratado (Tarjeta, Préstamo, Línea de crédito).                                                                         |
+| tipo_contrato            | Categórica          | Modalidad contractual del cliente (Mensual, Anual).                                                                                                   |
+| metodo_pago              | Categórica          | Método de pago principal del cliente (Transferencia, Débito automático, Efectivo); puede contener valores nulos.                                      |
+| default_12m              | Binaria (0/1)       | Variable objetivo que indica si el cliente incurrió en un incumplimiento significativo de pago en los últimos 12 meses (1 = default, 0 = no default). |

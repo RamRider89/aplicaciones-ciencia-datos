@@ -1,0 +1,82 @@
+[
+  {
+    "Variable": "edad",
+    "Tipo de dato": "Numérica (entero)",
+    "Descripción": "Edad del cliente en años, con valores entre 18 y 75."
+  },
+  {
+    "Variable": "region",
+    "Tipo de dato": "Categórica",
+    "Descripción": "Región geográfica del cliente (Norte, Centro, Sur)."
+  },
+  {
+    "Variable": "canal_adquisicion",
+    "Tipo de dato": "Categórica",
+    "Descripción": "Canal de adquisición del cliente (Web, App, Sucursal, Referido)."
+  },
+  {
+    "Variable": "ingreso_mensual",
+    "Tipo de dato": "Numérica (continua)",
+    "Descripción": "Ingreso mensual estimado del cliente; puede contener valores nulos, especialmente en el segmento Básico."
+  },
+  {
+    "Variable": "antiguedad_cliente_meses",
+    "Tipo de dato": "Numérica (entero)",
+    "Descripción": "Tiempo, en meses, que el cliente ha permanecido activo en la empresa."
+  },
+  {
+    "Variable": "segmento_cliente",
+    "Tipo de dato": "Categórica",
+    "Descripción": "Segmento del cliente según su perfil (Básico, Plus, Premium)."
+  },
+  {
+    "Variable": "limite_credito",
+    "Tipo de dato": "Numérica (continua)",
+    "Descripción": "Límite de crédito asignado al cliente, asociado a su perfil financiero."
+  },
+  {
+    "Variable": "saldo_promedio",
+    "Tipo de dato": "Numérica (continua)",
+    "Descripción": "Saldo promedio utilizado durante el periodo de análisis; presenta valores atípicos en clientes de alto valor o riesgo."
+  },
+  {
+    "Variable": "porcentaje_utilizacion",
+    "Tipo de dato": "Numérica (continua)",
+    "Descripción": "Proporción del crédito utilizado respecto al límite asignado, con valores entre 0 y 1."
+  },
+  {
+    "Variable": "num_transacciones_mes",
+    "Tipo de dato": "Numérica (entero)",
+    "Descripción": "Número promedio de transacciones mensuales realizadas por el cliente."
+  },
+  {
+    "Variable": "pagos_atrasados_12m",
+    "Tipo de dato": "Numérica (entero)",
+    "Descripción": "Número de pagos registrados con atraso en los últimos 12 meses."
+  },
+  {
+    "Variable": "reclamos_12m",
+    "Tipo de dato": "Numérica (entero)",
+    "Descripción": "Número de reclamos o incidencias reportadas en los últimos 12 meses."
+  },
+  {
+    "Variable": "tipo_producto",
+    "Tipo de dato": "Categórica",
+    "Descripción": "Tipo de producto financiero contratado (Tarjeta, Préstamo, Línea de crédito)."
+  },
+  {
+    "Variable": "tipo_contrato",
+    "Tipo de dato": "Categórica",
+    "Descripción": "Modalidad contractual del cliente (Mensual, Anual)."
+  },
+  {
+    "Variable": "metodo_pago",
+    "Tipo de dato": "Categórica",
+    "Descripción": "Método de pago principal del cliente (Transferencia, Débito automático, Efectivo); puede contener valores nulos."
+  },
+  {
+    "Variable": "default_12m",
+    "Tipo de dato": "Binaria (0/1)",
+    "Descripción": "Variable objetivo que indica si el cliente incurrió en un incumplimiento significativo de pago en los últimos 12 meses (1 = default, 0 = no default)."
+  }
+]
